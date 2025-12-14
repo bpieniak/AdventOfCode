@@ -1,3 +1,10 @@
 # Advent of Code
 
-Go solutions for Advent of Code puzzles, organized by year. Each year lives in its own Go module with the Go version pinned in `go.mod`.
+Solutions for Advent of Code puzzles I participated in, organized by year. 
+
+| Year | Language |
+| ---- | -------- |
+| 2022 | Go 1.19  |
+| 2023 | Go 1.21  |
+| 2024 | Go 1.23  |
+| 2025 | Zig      |
